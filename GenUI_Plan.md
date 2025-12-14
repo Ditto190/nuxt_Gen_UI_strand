@@ -69,4 +69,3 @@ For detailed documentation, see the comprehensive guides in the `content/4.gener
 - [CopilotKit Documentation](https://docs.copilotkit.ai/)
 - [Next.js Documentation](https://nextjs.org/docs)
 - [MUI Documentation](https://mui.com/)
-- [Repository](https://github.com/Ditto190/ag2)
