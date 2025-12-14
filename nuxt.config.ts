@@ -77,6 +77,13 @@ export default defineNuxtConfig({
         contentFilters: [
           { field: 'path', operator: 'LIKE', value: '/essentials%' }
         ]
+      },
+      {
+        title: 'Generative UI',
+        contentCollection: 'docs',
+        contentFilters: [
+          { field: 'path', operator: 'LIKE', value: '/generative-ui%' }
+        ]
       }
     ]
   },
